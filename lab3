@@ -1,0 +1,9 @@
+Laboratório 3 
+
+Neste laboratório, exploramos um pouco das opções disponíveis para configurar a VM que desejamos implantar, vemos desde as opções de rede, tamanho de disco, se a máquina estará
+exposta a internet ou não e etc... 
+
+São diversos tópicos que devem ser cuidadosamente analisados para que a VM tenha um bom desempenho para o projeto desejado.
+
+Também visualizamos um pouco da criação de um bando de dados SQL, com o objetivo de entender quais são os recursos que vamos utilizar e como isso vai influenciar diretamento nos
+custos. 
