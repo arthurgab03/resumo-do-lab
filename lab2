@@ -1,0 +1,11 @@
+Laboratório 2 
+
+Nesta segunda etapa prática, é frisada a importância sobre a escolha do nível de SLA (Service level agreement) escolhido na assinatura Azure,
+visto que isso vai determinar o tempo de inatividade aceitável dos seus serviços. Existem diferenças significativas desse tempo fora, as diferenças são grandes.
+Como por exemplo: SLA de 99% tem em media 1,68 hora de tempo limite aceitável de serviço fora por semana, enquanto o SLA de 99,999% tem cerca de 6 segundos de tempo aceitável fora...
+
+Ou seja, de forma mais simplória, quantos mais "noves", menos tempo de indisponibilidade nós teremos.
+
+Em seguida vemos uma breve demonstração da implantação de VMs, onde somos apresentados as opções de disponibilidade, que estão diretamente ligadas ao SLA, a opção escolhida
+vai delimitar o nível do SLA das VMs. Também vemos as opções de redundância, que também influenciam bastante na disponibilidade e (obviamente) no preço final.
+Visto que o orçamento aumenta proporcionalmente com a opção de disponibilidade, é sempre importante escolhar a opção que se adequea ao escopo do projeto. 
