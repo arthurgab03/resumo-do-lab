@@ -1,0 +1,7 @@
+Laboratório 4 
+
+Este laboratório nos introduz ao explorador da infraestrutura global da Azure, que demonstra através de uma interface interativa as mais de 60 regiões disponibilizadas pela Azure.
+Em seguida, somos introduzidos a criação de grupo de recursos no Portal da Azure. Vemos as "configurações" principais para a criação dos grupos de recursos no portal, como a 
+escolha da assinatura na qual o grupo estará atribuído, a região que o grupo pertence e claro, o nome do grupo de recursos. 
+Também foi acentuada a importância das tags e como elas podem ser úteis na identificação de gastos, pois as tags vão facilitar bastante no entendimento de quais recursos estão 
+gerando determinados custos.
