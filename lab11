@@ -1,0 +1,10 @@
+Nesta etapa prática, aprendemos a importância de monitorar continuamente os recursos e serviços na nuvem, garantindo desempenho, segurança e disponibilidade. 
+O Azure oferece um conjunto de ferramentas integradas que ajudam a identificar falhas, acompanhar métricas e otimizar o ambiente.
+
+Entre os principais serviços de monitoramento, temos:
+
+Azure Monitor: solução centralizada para coletar métricas e logs de praticamente todos os recursos do Azure.
+Log Analytics: integrado ao Monitor, permite consultas avançadas nos logs para identificar padrões, erros e anomalias.
+Application Insights: focado em aplicações, fornece métricas de desempenho, monitoramento de tempo de resposta e acompanhamento de falhas em tempo real.
+Azure Service Health: informa sobre incidentes, manutenções planejadas e impactos nos serviços do Azure que possam afetar seus recursos.
+Azure Advisor: além de otimização de custos, também recomenda melhorias em performance, segurança e alta disponibilidade.
