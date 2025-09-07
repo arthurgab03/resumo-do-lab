@@ -1,0 +1,11 @@
+Nesta etapa prática, vemos a importância de monitorar e planejar corretamente os gastos na nuvem, já que o modelo do Azure é baseado em pay as you go. 
+Sem acompanhamento, os custos podem crescer rapidamente e fugir do orçamento do projeto.
+Para auxiliar nesse controle, o Azure oferece ferramentas como o Azure Cost Management e o Azure Advisor, que fornecem relatórios detalhados, projeções de gastos e recomendações para economizar recursos.
+
+Entre as principais estratégias de otimização, temos:
+
+Dimensionamento correto das VMs: escolher o tamanho adequado à carga de trabalho, evitando pagar por recursos ociosos.
+Autoscaling: ajustar automaticamente a capacidade de serviços de acordo com a demanda.
+Reservas (Reserved Instances): contratar VMs por 1 ou 3 anos com descontos significativos em comparação ao uso sob demanda.
+Uso de camadas de armazenamento (hot, cool, archive): pagar menos para dados que não precisam de acesso frequente.
+Desligar recursos não utilizados: como VMs em ambientes de teste que ficam ligadas fora do horário de trabalho.
