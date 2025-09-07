@@ -1,0 +1,7 @@
+Nesta etapa prática, aprendemos a importância de gerenciar identidade e acesso dentro do Azure garantindo que apenas as pessoas certas tenham os níveis corretos de permissão sobre os recursos.
+O ponto central é o Microsoft Entra ID, serviço de identidade que permite autenticação e autorização de usuários, grupos e aplicativos.
+Ele é a base para Single Sign-On (SSO), autenticação multifator (MFA) e integração com milhares de serviços.
+Outro conceito importante é o Controle de Acesso Baseado em Funções (RBAC), que possibilita atribuir permissões específicas a usuários ou grupos, de acordo com papéis pré-definidos 
+(como Leitor, Colaborador ou Proprietário). Isso evita concessões desnecessárias de acesso e aumenta a segurança.
+Também é destacada a importância de Políticas de Segurança e Azure Policy, que ajudam a padronizar regras e conformidade, 
+além do Microsoft Defender for Cloud, que monitora, detecta ameaças e fornece recomendações de proteção para os recursos.
