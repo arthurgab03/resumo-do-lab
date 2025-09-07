@@ -1,0 +1,8 @@
+Nesta etapa prática, vemos a importância de estabelecer políticas de governança para garantir que os recursos da nuvem estejam sempre alinhados às normas internas da empresa e a requisitos legais ou regulatórios.
+
+No Azure, utilizamos ferramentas como:
+
+Azure Policy: define e aplica regras automáticas, como restringir a criação de recursos em determinadas regiões ou exigir que todos os recursos tenham tags de identificação.
+Azure Blueprints: permite criar modelos padronizados de ambientes, com políticas, permissões e recursos pré-configurados para garantir consistência.
+Management Groups e Resource Groups: ajudam a organizar e estruturar os recursos em diferentes níveis, facilitando a aplicação de políticas e controles de acesso.
+Microsoft Purview: possibilita gerenciar conformidade e catalogar dados, garantindo aderência a leis como LGPD ou GDPR.
