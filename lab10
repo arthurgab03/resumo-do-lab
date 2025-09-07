@@ -1,0 +1,13 @@
+Nesta etapa prática, nós vemos as diferentes formas de implantar e gerenciar recursos no Azure, entendendo que cada ferramenta atende a cenários específicos de automação, agilidade e controle.
+
+Entre as principais opções, temos:
+
+Portal do Azure: interface gráfica e intuitiva para criar e gerenciar recursos manualmente. Ideal para iniciantes ou configurações rápidas.
+Azure CLI (Command-Line Interface): ferramenta baseada em linha de comando, multiplataforma, que permite criar e gerenciar recursos de forma scriptável e repetível.
+Azure PowerShell: semelhante à CLI, mas voltado para administradores Windows, integrando scripts em PowerShell para automação.
+ARM Templates (Azure Resource Manager): permitem implantar recursos declarativamente via arquivos JSON, garantindo consistência e reprodutibilidade.
+Bicep: evolução dos ARM templates, com sintaxe simplificada, voltada para IaC (Infrastructure as Code).
+Terraform: ferramenta de IaC de terceiros, muito utilizada para cenários multicloud e automação avançada.
+
+O ponto principal é que a escolha da ferramenta depende do nível de automação desejado, do tamanho do projeto e da necessidade de padronização. 
+Para testes simples, o portal pode ser suficiente; para ambientes corporativos complexos, soluções IaC como Bicep ou Terraform são as mais indicadas.
