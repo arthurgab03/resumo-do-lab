@@ -1,0 +1,13 @@
+Nesta etapa prática, reforçamos a importância de entender os diferentes tipos de armazenamento disponíveis no Azure, pois cada um é projetado para atender cenários específicos de desempenho, redundância e custo.
+O Azure oferece essas opções:
+
+Blob Storage: ideal para armazenar grandes quantidades de dados não estruturados, como imagens, vídeos e backups.
+File Storage: fornece compartilhamentos de arquivos na nuvem acessíveis via SMB, muito usado para migração ou extensão de servidores de arquivos.
+Disk Storage: voltado para VMs, garante alta performance e persistência dos dados.
+Queue Storage: útil para mensageria entre aplicações distribuídas.
+Table Storage: banco NoSQL simples e escalável para grandes volumes de dados.
+
+Também são apresentadas as camadas de acesso (hot, cool e archive), que permitem otimizar custos de acordo com a frequência de uso dos dados.
+Por exemplo, dados acessados constantemente ficam na camada hot, enquanto backups de longo prazo podem ser movidos para archive, que é a mais barata mas tem maior latência.
+Outro ponto importante é a redundância: podemos escolher entre armazenamento local (LRS), regional (ZRS) e geográfico (GRS). Essa escolha impacta diretamente a disponibilidade e a resiliência dos dados.
+Ou seja, dominar o armazenamento no Azure significa saber alinhar custo, performance e segurança de acordo com a necessidade do projeto, aproveitando a flexibilidade que a plataforma oferece.
