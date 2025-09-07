@@ -1,0 +1,19 @@
+Nesta etapa prática, é destacada a importância de definir corretamente os recursos de uma Máquina Virtual (VM) no Azure, pois isso impacta diretamente no desempenho, na escalabilidade e, principalmente, nos custos
+da solução.
+O Azure oferece diferentes famílias de VMs, cada uma voltada para um tipo de carga de trabalho, como:
+
+Uso geral: equilibram CPU e memória, indicadas para aplicações comuns.
+
+Otimização de memória: voltadas para bancos de dados e processamento que exigem muita RAM.
+
+Otimização de computação: para tarefas que demandam alto poder de processamento.
+
+GPU: ideais para modelagem 3D, IA e processamento gráfico intenso.
+
+Armazenamento/alta performance: para cenários de big data ou análises em larga escala.
+
+Além da escolha da família, também configuramos o dimensionamento (tamanho da VM), que define quantidade de vCPUs, memória RAM, discos e rede. 
+Essa decisão deve ser feita de acordo com o escopo do projeto e as necessidades reais da aplicação.
+Outro ponto importante é o dimensionamento automático (autoscaling), que permite ajustar a capacidade conforme a demanda.
+Essa opção garante maior flexibilidade, evitando desperdício de recursos em períodos de baixa utilização e garantindo performance em momentos de pico.
+Ou seja, ao configurar recursos e dimensionamentos, é fundamental equilibrar custo e desempenho, sempre pensando em alinhar a escolha ao objetivo do projeto.
